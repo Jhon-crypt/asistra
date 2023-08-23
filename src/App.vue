@@ -3,6 +3,7 @@ import Header from './components/Header/Header.vue';
 import HeaderHero from './components/Hero/HeaderHero.vue'
 import FeatureHero from './components/Hero/FeatureHero.vue'
 import ServicesSection from './components/section/ServicesSection.vue'
+import ProjectSection from './components/section/ProjectSection.vue'
 </script>
 
 <template>
@@ -17,6 +18,8 @@ import ServicesSection from './components/section/ServicesSection.vue'
       <FeatureHero />
 
       <ServicesSection />
+
+      <ProjectSection />
 
     </section>
     
