@@ -4,6 +4,8 @@ import HeaderHero from './components/Hero/HeaderHero.vue'
 import FeatureHero from './components/Hero/FeatureHero.vue'
 import ServicesSection from './components/section/ServicesSection.vue'
 import ProjectSection from './components/section/ProjectSection.vue'
+import ContactSection from './components/section/ContactSection.vue'
+import Footer from './components/footer/Footer.vue'
 </script>
 
 <template>
@@ -20,6 +22,10 @@ import ProjectSection from './components/section/ProjectSection.vue'
       <ServicesSection />
 
       <ProjectSection />
+
+      <ContactSection />
+
+      <Footer />
 
     </section>
     
